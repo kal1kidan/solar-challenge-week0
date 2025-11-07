@@ -1,0 +1,11 @@
+﻿{
+    "python.defaultInterpreterPath": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}\\src"
+    ],
+    "editor.formatOnSave": true,
+    "files.exclude": {
+        "**/__pycache__": true
+    }
+}
