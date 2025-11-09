@@ -27,4 +27,4 @@ solar-challenge-week0/
 └── requirements.txt
 ```
 
- I can also **make this README even shorter and catchier**, suitable for GitHub’s main page so it immediately explains the project in 2–3 lines. Do you want me to do that?
+ 
